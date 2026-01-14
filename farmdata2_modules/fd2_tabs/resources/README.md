@@ -8,7 +8,7 @@
 ```
 
 ### **Description** ###
-A table styled to match FarmOS. By using Vue to v-bind the values of the props, the table can dynamically update to display relevant information.
+A table styled to match (https://farmos.org/). By using Vue to v-bind the values of the props, the table can dynamically update to display relevant information.
 
 ### **Props** ###
 
