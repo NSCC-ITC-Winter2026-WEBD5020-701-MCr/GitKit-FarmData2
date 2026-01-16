@@ -45,6 +45,5 @@ The development of FarmData2 has received partial support from:
 ![GPL V3 or Later](https://www.gnu.org/graphics/gplv3-or-later-sm.png "GPL V3 or later") All executable code in the FarmData2 project are licensed under the [GNU General Public License Version 3 or later](https://www.gnu.org/licenses/gpl.txt)
 
 
-Merge-conflict-practice branch change.
 Main branch change for merge conflict practice.
-main
+
