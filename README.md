@@ -14,7 +14,7 @@ If you are interesting in trying or using FarmData2 see the [INSTALL Document](I
 
 ### Contributing to FarmData2 ###
 
-If you are interesting in contributing to the development of FarmData2 see the [CONTRIBUTING Document](CONTRIBUTING.md) for information about how to get started.
+Note: If you are interesting in contributing to the development of FarmData2 see the [CONTRIBUTING Document](CONTRIBUTING.md) for information about how to get started.
 
 ### Connecting ###
 
